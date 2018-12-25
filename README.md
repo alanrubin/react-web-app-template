@@ -1,5 +1,38 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Recommended Tools
+
+- [ ] yarn
+- [ ] prettier
+- [ ] typescript (with babel 7)
+- [ ] eslint vs. tslint
+- [ ] emotion
+- [ ] jest + eslint + typescript integration
+- [ ] cypress
+- [ ] docz vs. storybook
+- [ ] react-dom-testing vs. enzyme
+- [ ] i18next
+- [ ] lint-staged + husky
+- [ ] visual testing: applitools vs. others
+- [ ] absolute path instead of relative
+
+## Recommended Libraries
+
+- [ ] emotion vs. styled-components
+- [ ] polished
+- [ ] i18next: i18next-scanner + react-i18next
+- [ ] date-fns instead of momentjs
+- [ ] fontawesome
+- [ ] react-select
+- [ ] axios
+- [ ] history vs. reach.tech/router
+- [ ] iframe-resizer
+- [ ] query-string
+- [ ] react-day-picker
+- [ ] react-ga
+- [ ] formik + yup
+- [ ] mobx-state-tree vs. immer vs. simple react state
+
 ## Available Scripts
 
 In the project directory, you can run:
