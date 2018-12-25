@@ -4,6 +4,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 - [x] yarn
 - [x] prettier
+- [x] JS: async/await instead of promises
 - [ ] typescript (with babel 7)
 - [ ] eslint vs. tslint
 - [ ] emotion
@@ -12,12 +13,17 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 - [ ] docz vs. storybook
 - [ ] react-dom-testing vs. enzyme
 - [ ] i18next
-- [ ] lint-staged + husky: prettier + lint
+- [ ] lint-staged + husky: prettier + lint + typescript
 - [ ] visual testing: applitools vs. others
 - [ ] absolute path instead of relative
 - [x] nvm
 - [ ] folder structure
-- [ ] source-map-explorer to analyze build size
+- [x] source-map-explorer to analyze build size
+- [x] environment variables for secrets/keys : https://facebook.github.io/create-react-app/docs/adding-custom-environment-variables#adding-development-environment-variables-in-env & https://facebook.github.io/create-react-app/docs/deployment#customizing-environment-variables-for-arbitrary-build-environments
+- [x] progressive web-apps support: https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app
+- [ ] debugging jest tests : https://facebook.github.io/create-react-app/docs/debugging-tests#debugging-tests-in-chrome
+- [ ] proxy backend in development: https://facebook.github.io/create-react-app/docs/proxying-api-requests-in-development
+- [ ] deployment: netlify vs. now vs. aws
 
 ## Recommended Libraries
 
