@@ -17,6 +17,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 - [ ] absolute path instead of relative
 - [x] nvm
 - [ ] folder structure
+- [ ] source-map-explorer to analyze build size
 
 ## Recommended Libraries
 
@@ -34,6 +35,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 - [ ] react-ga
 - [ ] formik + yup
 - [ ] mobx-state-tree vs. immer vs. simple react state
+- [ ] pace for enhance initial loading experience : https://github.hubspot.com/pace/docs/welcome/
 
 ## Available Scripts
 
