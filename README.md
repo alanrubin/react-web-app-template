@@ -5,7 +5,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 - [x] yarn
 - [x] prettier
 - [x] JS: async/await instead of promises
-- [ ] typescript (with babel 7)
+- [x] typescript (with babel 7)
 - [ ] eslint vs. tslint
 - [ ] emotion
 - [ ] jest + eslint + typescript integration
@@ -15,7 +15,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 - [ ] i18next
 - [ ] lint-staged + husky: prettier + lint + typescript
 - [ ] visual testing: applitools vs. others
-- [ ] absolute path instead of relative
+- [ ] absolute path instead of relative: https://github.com/facebook/create-react-app/issues/5118 & https://github.com/unzico/cra-2-typescript-sass-antd
 - [x] nvm
 - [ ] folder structure
 - [x] source-map-explorer to analyze build size
