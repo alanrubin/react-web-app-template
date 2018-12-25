@@ -1,9 +1,9 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Recommended Tools
+## Recommended Tools & Practices
 
-- [ ] yarn
-- [ ] prettier
+- [x] yarn
+- [x] prettier
 - [ ] typescript (with babel 7)
 - [ ] eslint vs. tslint
 - [ ] emotion
@@ -12,10 +12,11 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 - [ ] docz vs. storybook
 - [ ] react-dom-testing vs. enzyme
 - [ ] i18next
-- [ ] lint-staged + husky
+- [ ] lint-staged + husky: prettier + lint
 - [ ] visual testing: applitools vs. others
 - [ ] absolute path instead of relative
-- [ ] nvm
+- [x] nvm
+- [ ] folder structure
 
 ## Recommended Libraries
 
