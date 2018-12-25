@@ -15,6 +15,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 - [ ] lint-staged + husky
 - [ ] visual testing: applitools vs. others
 - [ ] absolute path instead of relative
+- [ ] nvm
 
 ## Recommended Libraries
 
