@@ -24,6 +24,10 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 - [ ] debugging jest tests : https://facebook.github.io/create-react-app/docs/debugging-tests#debugging-tests-in-chrome
 - [ ] proxy backend in development: https://facebook.github.io/create-react-app/docs/proxying-api-requests-in-development
 - [ ] deployment: netlify vs. now vs. aws
+- [ ] error reporting: sentry
+- [ ] ux reporting: mouseflow
+- [x] hot module reloading
+- [ ] analytics: Google Analytics
 
 ## Recommended Libraries
 
