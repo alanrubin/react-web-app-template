@@ -8,7 +8,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 - [x] typescript (with babel 7)
 - [ ] eslint vs. tslint
 - [ ] emotion
-- [ ] jest + eslint + typescript integration
+- [ ] jest + eslint + typescript + vscode integration: https://www.youtube.com/watch?v=Pl2heYVwQ-Q + https://www.youtube.com/watch?v=CdAhR70XD3g
 - [ ] cypress
 - [ ] docz vs. storybook
 - [ ] react-dom-testing vs. enzyme
@@ -28,6 +28,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 - [ ] ux reporting: mouseflow
 - [x] hot module reloading
 - [ ] analytics: Google Analytics
+- [ ] yarn workspaces vs. lerna: package division + sharing
 
 ## Recommended Libraries
 
@@ -46,6 +47,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 - [ ] formik + yup
 - [ ] mobx-state-tree vs. immer vs. simple react state
 - [ ] pace for enhance initial loading experience : https://github.hubspot.com/pace/docs/welcome/
+- [ ] yup or validator for validation
 
 ## Available Scripts
 
