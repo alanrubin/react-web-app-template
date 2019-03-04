@@ -8,28 +8,32 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 - [x] typescript (with babel 7)
 - [ ] eslint vs. tslint
 - [ ] emotion
-- [ ] jest + eslint + typescript + vscode integration: https://www.youtube.com/watch?v=Pl2heYVwQ-Q + https://www.youtube.com/watch?v=CdAhR70XD3g + https://github.com/jest-community/jest-runner-eslint + 
+- [ ] jest + eslint + typescript + vscode integration: https://www.youtube.com/watch?v=Pl2heYVwQ-Q + https://www.youtube.com/watch?v=CdAhR70XD3g + https://github.com/jest-community/jest-runner-eslint + https://github.com/mightyiam/eslint-config-standard-with-typescript
 - [ ] cypress
 - [ ] docz vs. storybook
 - [ ] react-dom-testing (https://github.com/kentcdodds/react-testing-library) vs. enzyme
 - [ ] i18next
 - [ ] lint-staged + husky: prettier + lint + typescript
-- [ ] visual testing: applitools vs. others
+- [ ] visual testing: https://applitools.com/ + https://happo.io/
 - [ ] absolute path instead of relative: https://github.com/facebook/create-react-app/issues/5118 & https://github.com/unzico/cra-2-typescript-sass-antd
 - [x] nvm
 - [ ] folder structure
 - [x] source-map-explorer to analyze build size
 - [x] environment variables for secrets/keys : https://facebook.github.io/create-react-app/docs/adding-custom-environment-variables#adding-development-environment-variables-in-env & https://facebook.github.io/create-react-app/docs/deployment#customizing-environment-variables-for-arbitrary-build-environments
 - [x] progressive web-apps support: https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app
+- [ ] debugging in development: https://github.com/infinitered/reactotron
 - [ ] debugging jest tests : https://facebook.github.io/create-react-app/docs/debugging-tests#debugging-tests-in-chrome
 - [ ] proxy backend in development: https://facebook.github.io/create-react-app/docs/proxying-api-requests-in-development
 - [ ] deployment: netlify vs. now vs. aws
 - [ ] error reporting: sentry
 - [ ] ux reporting: mouseflow
+- [ ] log in production: https://logz.io/ + https://www.loggly.com/
 - [x] hot module reloading
 - [ ] analytics: Google Analytics
 - [ ] yarn workspaces vs. lerna: package division + sharing
 - [ ] typescript format: https://github.com/palmerhq/typescript ?
+- [ ] versioning: auto semantic versioning (https://semver.org/) using https://github.com/semantic-release/semantic-release
+- [ ] Static code review/coverage tools: https://www.codacy.com/ + https://codecov.io/
 
 ## Recommended Libraries
 
