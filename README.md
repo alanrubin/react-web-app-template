@@ -8,7 +8,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 - [x] typescript (with babel 7)
 - [ ] eslint vs. tslint
 - [ ] emotion
-- [ ] jest + eslint + typescript + vscode integration: https://www.youtube.com/watch?v=Pl2heYVwQ-Q + https://www.youtube.com/watch?v=CdAhR70XD3g
+- [ ] jest + eslint + typescript + vscode integration: https://www.youtube.com/watch?v=Pl2heYVwQ-Q + https://www.youtube.com/watch?v=CdAhR70XD3g + https://github.com/jest-community/jest-runner-eslint + 
 - [ ] cypress
 - [ ] docz vs. storybook
 - [ ] react-dom-testing (https://github.com/kentcdodds/react-testing-library) vs. enzyme
@@ -29,6 +29,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 - [x] hot module reloading
 - [ ] analytics: Google Analytics
 - [ ] yarn workspaces vs. lerna: package division + sharing
+- [ ] typescript format: https://github.com/palmerhq/typescript ?
 
 ## Recommended Libraries
 
