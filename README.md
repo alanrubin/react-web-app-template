@@ -24,7 +24,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 - [ ] debugging in development: https://github.com/infinitered/reactotron
 - [ ] debugging jest tests : https://facebook.github.io/create-react-app/docs/debugging-tests#debugging-tests-in-chrome
 - [ ] proxy backend in development: https://facebook.github.io/create-react-app/docs/proxying-api-requests-in-development
-- [ ] deployment: netlify vs. now vs. aws
+- [ ] deployment: netlify vs. now vs. aws (https://github.com/fastlane/fastlane for mobile)
 - [ ] error reporting: sentry
 - [ ] ux reporting: mouseflow
 - [ ] log in production: https://logz.io/ + https://www.loggly.com/
@@ -34,6 +34,8 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 - [ ] typescript format: https://github.com/palmerhq/typescript ?
 - [ ] versioning: auto semantic versioning (https://semver.org/) using https://github.com/semantic-release/semantic-release
 - [ ] Static code review/coverage tools: https://www.codacy.com/ + https://codecov.io/
+- [ ] Continuous Integration
+- [ ] Lazy Loading: https://blog.bitsrc.io/improve-react-performance-using-lazy-loading-and-suspense-933903171954
 
 ## Recommended Libraries
 
