@@ -49,6 +49,11 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 - [ ] pace for enhance initial loading experience : https://github.hubspot.com/pace/docs/welcome/
 - [ ] yup or validator for validation
 
+### IDE
+- VSCODE: don't think twice
+- VSCODE Plugins: https://github.com/kentcdodds/ama/issues/406
+- VSCODE Font/Color: https://twitter.com/kentcdodds/status/1011999102492504064
+
 ## Available Scripts
 
 In the project directory, you can run:
