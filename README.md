@@ -53,6 +53,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 - [ ] mobx-state-tree vs. immer vs. simple react state
 - [ ] pace for enhance initial loading experience : https://github.hubspot.com/pace/docs/welcome/
 - [ ] yup or validator for validation
+- [ ] big lists rendering - https://github.com/bvaughn/react-window
 
 ### IDE
 - VSCODE: don't think twice
