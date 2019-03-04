@@ -39,7 +39,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 - [ ] fontawesome
 - [ ] react-select
 - [ ] axios
-- [ ] history vs. reach.tech/router
+- [ ] history vs. https://reach.tech/router
 - [ ] iframe-resizer
 - [ ] query-string
 - [ ] react-day-picker
