@@ -11,7 +11,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 - [ ] jest + eslint + typescript + vscode integration: https://www.youtube.com/watch?v=Pl2heYVwQ-Q + https://www.youtube.com/watch?v=CdAhR70XD3g
 - [ ] cypress
 - [ ] docz vs. storybook
-- [ ] react-dom-testing vs. enzyme
+- [ ] react-dom-testing (https://github.com/kentcdodds/react-testing-library) vs. enzyme
 - [ ] i18next
 - [ ] lint-staged + husky: prettier + lint + typescript
 - [ ] visual testing: applitools vs. others
