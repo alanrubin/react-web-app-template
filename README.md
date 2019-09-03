@@ -2,22 +2,23 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Recommended Tools & Practices
 
-- [x] yarn
-- [x] prettier
-- [x] JS: async/await instead of promises
-- [x] typescript (with babel 7)
-- [ ] eslint vs. tslint
-- [ ] emotion
-- [ ] jest + eslint + typescript + vscode integration: https://www.youtube.com/watch?v=Pl2heYVwQ-Q + https://www.youtube.com/watch?v=CdAhR70XD3g + https://github.com/jest-community/jest-runner-eslint + https://github.com/mightyiam/eslint-config-standard-with-typescript
-- [ ] cypress
-- [ ] docz vs. storybook
-- [ ] react-dom-testing (https://github.com/kentcdodds/react-testing-library) vs. enzyme
-- [ ] i18next
-- [ ] lint-staged + husky: prettier + lint + typescript
-- [ ] visual testing: https://applitools.com/ + https://happo.io/
-- [ ] absolute path instead of relative: https://github.com/facebook/create-react-app/issues/5118 & https://github.com/unzico/cra-2-typescript-sass-antd
-- [x] nvm
-- [ ] folder structure
+- [x] Package Manager: yarn
+- [x] Code Formatter: prettier
+- [x] ES6 JS syntax: async/await instead of promises + es6 destructuring
+- [x] Static Types: typescript (with babel 7, so no TS compile trouble)
+- [ ] Static Analysis: Eslint (with Typescript rules support) vs. tslint
+- [ ] CSS-in-JS: emotion vs. styled components: CSS-in-JS vs. SASS/LESS
+- [ ] Dev tools integration: jest + eslint + typescript + vscode integration: https://www.youtube.com/watch?v=Pl2heYVwQ-Q + https://www.youtube.com/watch?v=CdAhR70XD3g + https://github.com/jest-community/jest-runner-eslint + https://github.com/mightyiam/eslint-config-standard-with-typescript
+- [ ] End-to-End Testing: Cypress
+- [ ] Component Explorer and Documentation: docz vs. storybook
+- [ ] React Unit Testing: react-dom-testing (https://github.com/kentcdodds/react-testing-library) vs. enzyme
+- [ ] Internationalization: i18next
+- [ ] Commit Workflow: lint-staged + husky: prettier + lint + typescript
+- [ ] Visual Testing: https://applitools.com/ + https://happo.io/
+- [ ] Import Paths: absolute path instead of relative: https://github.com/facebook/create-react-app/issues/5118 & https://github.com/unzico/cra-2-typescript-sass-antd
+- [x] Node versions management: nvm
+- [ ] Folder Structure
+- [ ] File name standards: consistency
 - [x] source-map-explorer to analyze build size
 - [x] environment variables for secrets/keys : https://facebook.github.io/create-react-app/docs/adding-custom-environment-variables#adding-development-environment-variables-in-env & https://facebook.github.io/create-react-app/docs/deployment#customizing-environment-variables-for-arbitrary-build-environments
 - [x] progressive web-apps support: https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app
@@ -30,12 +31,16 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 - [ ] log in production: https://logz.io/ + https://www.loggly.com/
 - [x] hot module reloading
 - [ ] analytics: Google Analytics
-- [ ] yarn workspaces vs. lerna: package division + sharing
+- [ ] yarn workspaces vs. lerna: package division + code and components sharing
 - [ ] typescript format: https://github.com/palmerhq/typescript ?
 - [ ] versioning: auto semantic versioning (https://semver.org/) using https://github.com/semantic-release/semantic-release
 - [ ] Static code review/coverage tools: https://www.codacy.com/ + https://codecov.io/
 - [ ] Continuous Integration
 - [ ] Lazy Loading: https://blog.bitsrc.io/improve-react-performance-using-lazy-loading-and-suspense-933903171954
+- [ ] State management: plain state vs. context vs. Redux vs. Mobx State Tree
+
+## Bad Practices
+- Frontend code in same repo of Backend code (specially if using Maven)
 
 ## Recommended Libraries
 
@@ -45,7 +50,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 - [ ] date-fns instead of momentjs
 - [ ] fontawesome
 - [ ] react-select
-- [ ] axios
+- [ ] axios instead of fetch
 - [ ] history vs. https://reach.tech/router
 - [ ] iframe-resizer
 - [ ] query-string
