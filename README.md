@@ -50,14 +50,14 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 - [ ] date-fns instead of momentjs
 - [ ] fontawesome
 - [ ] react-select
-- [ ] axios instead of fetch
+- [ ] axios instead of fetch (https://medium.com/wix-engineering/why-i-wont-be-using-fetch-api-in-my-apps-6900e6c6fe78)
 - [ ] history vs. https://reach.tech/router
 - [ ] iframe-resizer
 - [ ] query-string
 - [ ] react-day-picker
 - [ ] react-ga
 - [ ] formik + yup
-- [ ] mobx-state-tree vs. immer vs. simple react state
+- [ ] mobx-state-tree vs. immer vs. React State vs. React Context
 - [ ] pace for enhance initial loading experience : https://github.hubspot.com/pace/docs/welcome/
 - [ ] yup or validator for validation
 - [ ] big lists rendering - https://github.com/bvaughn/react-window
